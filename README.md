@@ -23,13 +23,14 @@ It maintain accurate Academic Card.
   •Enter class/mother name /student full name
 
   •Enter correct marks for selected subject 
-  °Give total marks 
   
-  °Percentage 
+     °Give total marks 
+  
+     °Percentage 
        
-  °Grade 
-
-  °Result(Pass or Fail) 
+     °Grade 
+  
+     °Result(Pass or Fail) 
       
 # 👩‍💻 Tech used
 
