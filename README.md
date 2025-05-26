@@ -8,44 +8,44 @@ It maintain accurate Academic Card.
 
 🔴FEATURES
   
-◽️Student name 
+  ◽️Student name 
 
-◽️Subject 
+  ◽️Subject 
 
-◽️Mother name
+  ◽️Mother name
 
-◽️Seat no.
+  ◽️Seat no.
 
-◽️Stream 
+  ◽️Stream 
 
-◽️Marks for 5 subject
+  ◽️Marks for 5 subject
 
-◽️Calculate total percentage 
+  ◽️Calculate total percentage 
 
-◽️Grade assign on base of percentage
+  ◽️Grade assign on base of percentage
 
 🔴FUNCTIONAL FLOW 
 
-◽️User Enter their School/College Name
+  ◽️User Enter their School/College Name
 
-◽️Enter class/mother name /student full name
+  ◽️Enter class/mother name /student full name
 
-◽️Enter correct marks for selected subject 
-🔸Give total marks 
+  ◽️Enter correct marks for selected subject 
+   🔸Give total marks 
+  
+   🔸Percentage 
+    
+   🔸Grade 
 
-🔸Percentage
-
-🔸Grade 
-
-🔸Result(Pass or Fail) 
+   🔸Result(Pass or Fail) 
       
 🔴TECH USED 
 
-◽️C language
+  ◽️C language
 
-◽️Compailer:GCC/ any C compailer
+  ◽️Compailer:GCC/ any C compailer
 
-◽️Platform: Terminal/Console
+  ◽️Platform: Terminal/Console
 
 🔴Sample Output
 
