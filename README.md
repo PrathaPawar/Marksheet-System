@@ -4,7 +4,7 @@ This is simple console based marksheet interface program written in C.
 It stimulate marksheet of consistent format. 
 It maintain accurate Academic Card. 
 
-# 🛠 FEATURES
+# 🛠 Features
   
   •Print Proper Student name /Subject/Mother name /Seat no. /Stream 
 
@@ -16,7 +16,7 @@ It maintain accurate Academic Card.
 
   •Grade assign on base of percentage
 
-# 📌 FUNCTIONAL FLOW 
+# 📌 Functional Flow
 
   •User Enter their School/College Name
 
@@ -31,7 +31,7 @@ It maintain accurate Academic Card.
 
   °Result(Pass or Fail) 
       
-# 👩‍💻 TECH USED 
+# 👩‍💻 Tech used
 
    •C language
 
