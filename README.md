@@ -27,6 +27,7 @@ It maintain accurate Academic Card.
    ◽️Platform: Terminal/Console
 
 🔴Sample Output
+
    
 
 
