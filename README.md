@@ -1,8 +1,13 @@
 #Marksheet-System
-This is simple console based marksheet interface program written in C. It stimulate marksheet of consistent format. 
+
+This is simple console based marksheet interface program written in C. 
+
+It stimulate marksheet of consistent format. 
+
 It maintain accurate Academic Card. 
 
 🔴FEATURES
+  
   ◽️Student name 
   ◽️Subject 
   ◽️Mother name
@@ -12,10 +17,11 @@ It maintain accurate Academic Card.
   ◽️Calculate total percentage 
   ◽️Grade assign on base of percentage
 
-🔴 FUNCTIONAL FLOW 
+🔴
+ FUNCTIONAL FLOW 
   ◽️User Enter their School/College Name
-  ◽️Enter class/mother name /student        full name
-  ◽️Enter correct marks for selected        subject 
+  ◽️Enter class/mother name /student full name
+  ◽️Enter correct marks for selected subject 
       🔸Give total marks 
       🔸Percentage
       🔸Grade 
