@@ -1,4 +1,4 @@
-#Marksheet-System
+# MARKSHEET SYSTEM
 
 This is simple console based marksheet interface program written in C. 
 It stimulate marksheet of consistent format. 
