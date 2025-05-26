@@ -8,7 +8,7 @@ It maintain accurate Academic Card.
   
       •Print Proper Student name /Subject/Mother name /Seat no. /Stream 
 
-      •Valid Marks for 5 subject
+      •Enter valid Marks for 5 subject
 
       •Calculate total marks 
 
