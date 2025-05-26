@@ -6,7 +6,7 @@ It stimulate marksheet of consistent format.
 
 It maintain accurate Academic Card. 
 
-🔴FEATURES
+📌FEATURES
   
   ◽️Student name 
 
@@ -24,7 +24,7 @@ It maintain accurate Academic Card.
 
   ◽️Grade assign on base of percentage
 
-🔴FUNCTIONAL FLOW 
+📌FUNCTIONAL FLOW 
 
   ◽️User Enter their School/College Name
 
@@ -39,7 +39,7 @@ It maintain accurate Academic Card.
 
    🔸Result(Pass or Fail) 
       
-🔴TECH USED 
+📌TECH USED 
 
   ◽️C language
 
