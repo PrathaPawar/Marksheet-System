@@ -24,13 +24,13 @@ It maintain accurate Academic Card.
 
   •Enter correct marks for selected subject 
   
-     °Give total marks 
+   °Give total marks 
   
-     °Percentage 
+   °Percentage 
        
-     °Grade 
+   °Grade 
   
-     °Result(Pass or Fail) 
+   °Result(Pass or Fail) 
       
 # 👩‍💻 Tech used
 
