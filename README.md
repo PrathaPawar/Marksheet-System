@@ -1,53 +1,46 @@
 #Marksheet-System
 
 This is simple console based marksheet interface program written in C. 
-
 It stimulate marksheet of consistent format. 
-
 It maintain accurate Academic Card. 
 
-📌FEATURES
+🛠 FEATURES
   
-  ◽️Student name 
+      •Print Proper Student name /Subject/Mother name /Seat no. /Stream 
 
-  ◽️Subject 
+      •Valid Marks for 5 subject
 
-  ◽️Mother name
+      •Calculate total marks 
 
-  ◽️Seat no.
+      •Calculate total percentage 
 
-  ◽️Stream 
+      •Grade assign on base of percentage
 
-  ◽️Marks for 5 subject
+📌 FUNCTIONAL FLOW 
 
-  ◽️Calculate total percentage 
+      •User Enter their School/College Name
 
-  ◽️Grade assign on base of percentage
+      •Enter class/mother name /student full name
 
-📌FUNCTIONAL FLOW 
-
-  ◽️User Enter their School/College Name
-
-  ◽️Enter class/mother name /student full name
-
-  ◽️Enter correct marks for selected subject 
-   🔸Give total marks 
+      •Enter correct marks for selected subject 
+            °Give total marks 
   
-   🔸Percentage 
+            °Percentage 
     
-   🔸Grade 
+            °Grade 
 
-   🔸Result(Pass or Fail) 
+            °Result(Pass or Fail) 
       
-📌TECH USED 
+👩‍💻 TECH USED 
 
-  ◽️C language
+     •C language
 
-  ◽️Compailer:GCC/ any C compailer
+     •Compailer:GCC/ any C compailer
 
-  ◽️Platform: Terminal/Console
+     •Platform: Terminal/Console 
 
-📌Sample Output
+
+📷 Sample Output
 
    
 
